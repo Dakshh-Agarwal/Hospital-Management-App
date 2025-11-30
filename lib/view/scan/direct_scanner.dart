@@ -269,3 +269,4 @@ class _DirectScannerState extends State<DirectScanner> {
     });
   }
 }
+  
